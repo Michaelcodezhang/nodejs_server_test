@@ -27,6 +27,6 @@ let server = http.createServer(function (request,response) {
   })
 })
 
-server.listen(8080)
+server.listen(80)
 
-console.log('Server is running at http://127.0.0.1:8080/')
+console.log('Server is running at http://112.74.192.87:80/')
